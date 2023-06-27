@@ -1,0 +1,10 @@
+/* 
+Your Task:
+You don't need to read input or print anything. Your task is to complete the function passedBy() which takes a and b as input parameters and returns array of two required integers.
+*/
+class Solution {
+    static int[] passedBy(int a, int b) {
+        int ar[] = {a+1,b+2};
+        return ar;
+    }
+}
