@@ -14,4 +14,14 @@ public class pattern8 {
             }
             System.out.println();
         }
-}}
+   }
+}
+/*
+input: 5
+output: 
+*********
+ *******
+  *****
+   ***
+    *
+    */
